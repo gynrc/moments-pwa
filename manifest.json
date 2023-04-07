@@ -1,0 +1,16 @@
+{
+    "lang": "en-us",
+    "short_name": "Temperature Converter",
+    "name": "Temperature Converter Progressive Web App (PWA)",
+    "description": "A basic temperature converter application that can convert to and from Celsius, Kelvin, and Fahrenheit",
+    "icons": [
+    {
+    "src": "logo.png",
+    "sizes": "500x500"
+    }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#5b7d8a",
+    "background_color": "#ffffff"
+}
